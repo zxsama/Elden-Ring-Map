@@ -1,2 +1,2 @@
-Map/地表_10000×10000.png filter=lfs diff=lfs merge=lfs -text
-Map/地表_灰_10000×10000.png filter=lfs diff=lfs merge=lfs -text
+Map/Ground_AshenCapital_10000×10000.png filter=lfs diff=lfs merge=lfs -text
+Map/Ground_Normal_10000×10000.png filter=lfs diff=lfs merge=lfs -text
