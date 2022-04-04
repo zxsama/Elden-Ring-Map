@@ -5,12 +5,13 @@
 10000×10000 pixel
 
 ## 地图预览
+
 目前有：
 
-- 地面-灰烬王城前
-![地面-灰烬王城前](/Preview/地表_1000×1000.png)
+- [地上-烧树前](https://github.com/zxsama/Elden-Ring-Map/blob/master/Map/Ground_Normal_10000%C3%9710000.png)
 
-- 地面-灰烬王城后
-![地面-灰烬王城后](/Preview/地表_灰_1000×1000.png)
+  ![地上-烧树前](/Preview/地表_1000×1000.png)
 
+- [地上-烧树后](https://github.com/zxsama/Elden-Ring-Map/blob/master/Map/Ground_AshenCapital_10000%C3%9710000.png)
+![地上-烧树后](/Preview/地表_灰_1000×1000.png)
 
